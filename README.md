@@ -17,11 +17,11 @@
 
 Clone the repository
 ```shell
-git clone https://github.com/furkandogmus/webshell.git
+git clone https://github.com/furkandogmus/portfolio.git
 ```
 Go to the project directory
 ```shell
-cd webshell
+cd portfolio
 ```
 Install the dependencies
 ```shell
