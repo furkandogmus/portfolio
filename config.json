@@ -1,0 +1,82 @@
+{
+  "ascii": [
+   "███████████                      █████                       ",   
+  "░░███░░░░░░█                     ░░███                         ",
+   "░███   █ ░  █████ ████ ████████  ░███ █████  ██████   ████████",  
+   "░███████   ░░███ ░███ ░░███░░███ ░███░░███  ░░░░░███ ░░███░░███ ",
+   "░███░░░█    ░███ ░███  ░███ ░░░  ░██████░    ███████  ░███ ░███ ",
+   "░███  ░     ░███ ░███  ░███      ░███░░███  ███░░███  ░███ ░███ ",
+   "█████       ░░████████ █████     ████ █████░░████████ ████ █████",
+  "░░░░░         ░░░░░░░░ ░░░░░     ░░░░ ░░░░░  ░░░░░░░░ ░░░░ ░░░░░ "
+                                                                     
+                                                                     
+                                                                     
+  ],
+  "title": "Furkan's Portfolio",
+  "username": "user",
+  "hostname": "shell",
+  "password": "qweqwe.",
+  "repoLink": "https://github.com/furkandogmus",
+  "social": {
+    "email": "furkandogmus9183@gmail.com",
+    "github": "https://github.com/furkandogmus",
+    "linkedin": "https://www.linkedin.com/in/furkan-do%C4%9Fmu%C5%9F-7854571a3"
+  },
+  "aboutGreeting": "Hi guest. Welcome to my portfolio.",
+  "projects": [
+    [
+      "NLPPhishingIntention",
+      "Trained an artificial intelligence model to detect whether an email is phishing or not from its HTML body as the final project of the Information Security course. Prepared an environment for the client to test with their own HTML files on Flask server.",
+      "https://github.com/furkandogmus/NLPPhishingIntention"
+    ],
+    [
+      "CatDetectionMLProject",
+      "Developed an application to learn how basic machine learning algorithms work by detecting whether a 64*64 pixel photo is a picture of a cat or not.",
+      "https://github.com/furkandogmus/CatDetectionMLProject"
+    ],
+    [
+      "Golang rest_api",
+      "Developed a simple Rest Api application for implementing CRUD operations in Go.",
+      "https://github.com/furkandogmus/golang_rest_api"
+    ],
+    [
+      "Java TCP Socket Chat",
+      "Developed a small multi-user chat application in Java to understand how Sockets work.",
+      "https://github.com/furkandogmus/JavaTCPSocketChat"
+    ],
+    [
+     "LeetCode Solutions",
+     "Repository containing my solutions to algorithm problems, including those asked in interviews by major companies, on LeetCode, a popular website for coding practice.",
+    "https://github.com/furkandogmus/LeetCode"
+    ],
+    [
+      "Kelimele - Wordle Clone App",
+      "Basic Spring Boot application and frontend work.",
+      "https://github.com/furkandogmus/kelimele"
+    ]
+  ]
+,
+  "colors": {
+    "background": "#0C0623",
+    "foreground": "#F8DDE5",
+    "banner": "#FF9951",
+    "border": {
+      "visible": true,
+      "color": "#FFADE2"
+    },
+    "prompt": {
+      "default": "#A5A7A7",
+      "user": "#FE6BC9",
+      "host": "#70FDFF",
+      "input": "#FF7685"
+    },
+    "link": {
+      "text": "#B6AAEE",
+      "highlightColor": "#FFADE2",
+      "highlightText": "#0C0623"
+    },
+    "commands": {
+      "textColor": "#FD9BDB"
+    }
+  }
+}
